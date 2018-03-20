@@ -2,6 +2,6 @@ package com.wmdl;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("HelloJava");
+		System.out.println("Hello");
 	}
 }
